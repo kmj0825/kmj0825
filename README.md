@@ -13,5 +13,6 @@
 -->
 
 ![Minjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmj0825&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kmj0825&layout=compact&theme=dark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kmj0825)](https://solved.ac/kmj0825)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 닉네임&layout=Demo&theme=dark)
+
